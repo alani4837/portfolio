@@ -3,6 +3,7 @@ A sample Portfolio webapp built with nodejs!
 **Setup**
 
 On console
+
   **install all dependencies**
   
   $ npm i

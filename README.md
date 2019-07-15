@@ -1,19 +1,19 @@
 A sample Portfolio webapp built with nodejs!
 
-## Setup
+**Setup**
 
 On console
-  // install all dependencies 
+  **install all dependencies**
   
   $ npm i
   
-  // build your app
+  **build your app**
   
   $ npm run build
   
-  // run your app
+  **run your app**
   
   $ npm run serve
 
 
-Go to http://localhost:5000 to see the generated site.
+Go to **http://localhost:5000** to see the generated site.

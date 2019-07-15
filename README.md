@@ -4,12 +4,15 @@ A sample Portfolio webapp built with nodejs!
 
 On console
   // install all dependencies 
+  
   $ npm i
   
   // build your app
+  
   $ npm run build
   
   // run your app
+  
   $ npm run serve
 
 

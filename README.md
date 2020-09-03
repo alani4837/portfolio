@@ -6,15 +6,15 @@ On console
 
   # install all dependencies
   
-  $ npm i
+   npm i
   
   # build your app
   
-  $ npm run build
+   npm run build
   
   # run your app
   
-  $ npm run serve
+   npm run serve
 
 
 
